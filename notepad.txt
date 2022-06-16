@@ -1,2 +1,7 @@
-hello world
-2nd push commnadd
+How to push project on github
+1)create repository on  github website
+2)copy link url
+3)git remote add origin <link here>
+4)git add <to add edited files to github.withextinsion>
+5)git commit -m "place message here"
+git push origin master
