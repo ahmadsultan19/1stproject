@@ -4,4 +4,4 @@ How to push project on github
 3)git remote add origin <link here>
 4)git add <to add edited files to github.withextinsion>
 5)git commit -m "place message here"
-git push origin master
+6)git push origin master
